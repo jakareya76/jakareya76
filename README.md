@@ -1,6 +1,6 @@
 # Hello, I'm Jakareya 👋
 
-![Profile Views]([https://komarev.com/ghpvc/?username=jakareya&color=blue)](https://jakareya.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=jakareya&color=blue)](https://jakareya.vercel.app/)
 
 ## About Me
 I'm a frontend developer with a passion for building user-friendly and efficient web applications. I specialize in:
