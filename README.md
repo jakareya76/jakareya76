@@ -1,7 +1,6 @@
 # Hello, I'm Jakareya 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jakareya&color=blue)](https://jakareya.vercel.app/)
-[![GitHub followers](https://img.shields.io/github/followers/jakareya?label=Follow&style=social)](https://github.com/jakareya)
 
 ## About Me
 
@@ -16,7 +15,7 @@ I have experience working on various projects, from simple websites to complex w
 
 ## Skills
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -31,7 +30,7 @@ I have experience working on various projects, from simple websites to complex w
 
 ## Get in Touch
 
-<p align="center">
+<p>
   <a href="mailto:jakareya1306@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
