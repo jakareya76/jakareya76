@@ -38,7 +38,7 @@ I have experience working on various projects, from simple websites to complex w
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://jakareya.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0e76a8?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
