@@ -23,22 +23,3 @@ I have experience working on various projects, from simple websites to complex w
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## Projects
-### Headline Hub
-A MERN stack news website designed to provide users with the latest news articles from various sources in an organized and user-friendly manner.
-
-- **Concept**: Headline Hub aggregates news articles to help users stay updated efficiently.
-- **Features**:
-  - Real-time News Updates: Fetches and displays the latest news articles.
-  - Category-wise News: Filters news based on categories like technology, sports, business, etc.
-  - User Authentication: Secure login and registration for personalized news feeds.
-- **Technologies Used**: React JS, Node.js, Express.js, MongoDB
-
-
-#### [Project Repository](https://github.com/jakareya76/headline-hub-frontend)
-
-#### Steps to Clone and Run Locally
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/jakareya76/headline-hub-frontend.git
