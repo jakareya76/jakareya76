@@ -2,7 +2,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jakareya&color=blue)](https://jakareya.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/jakareya?label=Follow&style=social)](https://github.com/jakareya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jakareya/)
 
 ## About Me
 
@@ -30,19 +29,18 @@ I have experience working on various projects, from simple websites to complex w
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## Projects
-
-Check out some of my projects:
-
-- **[Headline Hub](https://github.com/jakareya76/headline-hub-frontend)**: A news aggregator web application built with React and Tailwind CSS.
-- **[My Portfolio](https://jakareya.vercel.app/)**: A personal portfolio showcasing my skills and projects.
-
 ## Get in Touch
 
-Feel free to connect with me:
+<p align="center">
+  <a href="mailto:jakareya1306@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jakareya-ahmed">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://jakareya.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/jakareya/)
-- [Twitter](https://twitter.com/jakareya)
-- [Email](mailto:jakareya@gmail.com)
-
-Looking forward to collaborating with you on exciting projects!
+Feel free to reach out to me for collaborations or just to say hi! Looking forward to connecting with you.
