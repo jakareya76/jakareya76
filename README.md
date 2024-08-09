@@ -6,7 +6,7 @@
 
 I'm a frontend developer with a passion for building user-friendly and efficient web applications. I specialize in:
 
-- **Frontend Technologies**: HTML, CSS, JavaScript, React JS, Next JS, Tailwind CSS
+- **Frontend Technologies**: HTML, CSS, JavaScript, React JS, Next JS, Tailwind CSS, ShadcnUI
 - **Backend Technologies**: Node.js, Express.js
 - **Database**: MongoDB
 - **Tools**: Git, GitHub
