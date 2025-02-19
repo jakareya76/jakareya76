@@ -4,11 +4,11 @@
 
 ## About Me
 
-I'm a frontend developer with a passion for building user-friendly and efficient web applications. I specialize in:
+I'm a Front-End developer passionate about building user-friendly and efficient web applications. I specialize in:
 
 - **Frontend Technologies**: HTML, CSS, JavaScript, React JS, Next JS, Tailwind CSS
 - **Backend Technologies**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB, PostgreSQL
 - **Tools**: Git, GitHub, Claude AI
 
 I have experience working on various projects, from simple websites to complex web applications. I enjoy learning new technologies and continuously improving my skills.
