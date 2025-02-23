@@ -9,7 +9,7 @@ I'm a Front-End developer passionate about building user-friendly and efficient 
 - **Frontend Technologies**: HTML, CSS, JavaScript, React JS, Next JS, Tailwind CSS
 - **Backend Technologies**: Node.js, Express.js
 - **Database**: MongoDB, PostgreSQL
-- **Tools**: Git, GitHub, Claude AI
+- **Tools**: Git, GitHub, Claude
 
 I have experience working on various projects, from simple websites to complex web applications. I enjoy learning new technologies and continuously improving my skills.
 
