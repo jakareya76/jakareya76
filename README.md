@@ -1,12 +1,9 @@
 # Hello, I'm Jakareya 👋
-
 [![Profile Views](https://komarev.com/ghpvc/?username=jakareya&color=blue)](https://jakareya.vercel.app/)
 
 ## About Me
-
 I'm a Front-End developer passionate about building user-friendly and efficient web applications. I specialize in:
-
-- **Frontend Technologies**: HTML, CSS, JavaScript, React JS, Next JS, Tailwind CSS
+- **Frontend Technologies**: HTML, CSS, JavaScript, TypeScript, React JS, Next JS, Tailwind CSS
 - **Backend Technologies**: Node.js, Express.js
 - **Database**: MongoDB, PostgreSQL
 - **Tools**: Git, GitHub, Claude
@@ -14,11 +11,11 @@ I'm a Front-End developer passionate about building user-friendly and efficient 
 I have experience working on various projects, from simple websites to complex web applications. I enjoy learning new technologies and continuously improving my skills.
 
 ## Skills
-
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
@@ -29,7 +26,6 @@ I have experience working on various projects, from simple websites to complex w
 </p>
 
 ## Get in Touch
-
 <p>
   <a href="mailto:jakareya1306@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -38,7 +34,7 @@ I have experience working on various projects, from simple websites to complex w
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://jakareya.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
